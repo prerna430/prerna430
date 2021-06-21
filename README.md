@@ -1,16 +1,13 @@
-### Hi there 👋
+ Hey! Nice to see you.
+I'm Prerna
+I have technical experience and interest in -
+Computer vision
+Natural Language Processing
+Embedded systems
 
-<!--
-**prerna430/prerna430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools:
+docker,flask,git,heroku, html5, linux, mongodb, mysql, opencv, postman, python, pytorch, scikit_learn, tensorflow
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Hobbies and interests -
+Cooking
+Baking
